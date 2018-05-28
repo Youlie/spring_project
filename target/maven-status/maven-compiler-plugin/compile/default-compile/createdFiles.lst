@@ -1,0 +1,7 @@
+tp/spring/mvc/app/TpRootConfig.class
+tp/spring/mvc/app/SecurityInitializer.class
+tp/spring/mvc/app/TpApp1Config.class
+tp/spring/mvc/app/SecurityConfig.class
+tp/spring/mvc/action/ControlerLog4j.class
+tp/spring/mvc/action/MyController.class
+tp/spring/mvc/app/WebAppInitializer.class
